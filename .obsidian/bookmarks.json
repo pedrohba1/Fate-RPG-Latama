@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1742347157000,
+      "title": "studies graph",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:Estudos/Matemática  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Estudos/Computação  ",
+            "color": {
+              "a": 1,
+              "rgb": 19711
+            }
+          },
+          {
+            "query": "path:Estudos/Investimentos  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "path:Estudos/Leituras  ",
+            "color": {
+              "a": 1,
+              "rgb": 11424480
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.584568047337278,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.6906394886619001,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1757205780857,
+      "title": "main graph",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path:Estudos/Matemática  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:Estudos/Computação  ",
+            "color": {
+              "a": 1,
+              "rgb": 19711
+            }
+          },
+          {
+            "query": "path:Estudos/Investimentos  ",
+            "color": {
+              "a": 1,
+              "rgb": 9166930
+            }
+          },
+          {
+            "query": "path:Estudos/Leituras  ",
+            "color": {
+              "a": 1,
+              "rgb": 11424480
+            }
+          },
+          {
+            "query": "path:\"Academia e esportes\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 15761408
+            }
+          },
+          {
+            "query": "path:Estudos/Música  ",
+            "color": {
+              "a": 1,
+              "rgb": 6627148
+            }
+          },
+          {
+            "query": "path:Estudos/Autoconhecimento  ",
+            "color": {
+              "a": 1,
+              "rgb": 13893427
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -1.6,
+        "nodeSizeMultiplier": 1.85336695429104,
+        "lineSizeMultiplier": 3.00066173041045,
+        "collapse-forces": false,
+        "centerStrength": 0.421758395522388,
+        "repelStrength": 20,
+        "linkStrength": 0.617566464552239,
+        "linkDistance": 30,
+        "scale": 0.1052699608012498,
+        "close": false
+      }
+    },
+    {
+      "type": "graph",
+      "ctime": 1757205940873,
+      "title": "autogenia",
+      "options": {
+        "collapse-filter": true,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "path: Estudos/Autoconhecimento/Autogenia  ",
+            "color": {
+              "a": 1,
+              "rgb": 13893427
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -1.6,
+        "nodeSizeMultiplier": 1.85336695429104,
+        "lineSizeMultiplier": 3.00066173041045,
+        "collapse-forces": false,
+        "centerStrength": 0.421758395522388,
+        "repelStrength": 20,
+        "linkStrength": 0.617566464552239,
+        "linkDistance": 30,
+        "scale": 0.11532298008758805,
+        "close": false
+      }
+    }
+  ]
+}

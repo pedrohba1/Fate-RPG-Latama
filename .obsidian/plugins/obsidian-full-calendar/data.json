@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(166, 23%, 58%)",
+      "directory": "Cotidiano"
+    },
+    {
+      "type": "ical",
+      "color": "#eba000",
+      "url": "https://calendar.google.com/calendar/ical/pedrohba18%40gmail.com/private-71b23ac55caba866fee99e14a32cee5b/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

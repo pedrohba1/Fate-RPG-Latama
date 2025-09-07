@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "FasMemory",
+      "RiArchiveFill",
+      "SiDiagramsdotnet",
+      "SiBookstack",
+      "RiAttachment2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true
+  },
+  "Estudos/Computação": "SiGnometerminal",
+  "Estudos/Computação/Segurança/Criptografia": "FasLock",
+  "Estudos/Computação/Segurança": "FasShield",
+  "Estudos": "FasBook",
+  "Estudos/Matemática": "SiDragonframe",
+  "Estudos/Leituras": "SiReadme",
+  "Empresa": "RiStore3Line",
+  "Estudos/Música": "FasMusic",
+  "Attachments": "RiAttachment2",
+  "Estudos/Leituras/Livros": "SiBookstack",
+  "Cotidiano": "RaClover",
+  "Estudos/Religião": "FasCross",
+  "Academia e esportes": "FasDumbbell",
+  "Diagramas": "SiDiagramsdotnet",
+  "Archive": "RiArchiveFill",
+  "Experiências": "FasMemory"
+}

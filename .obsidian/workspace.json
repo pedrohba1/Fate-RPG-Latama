@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "b1db1c22e4f83f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b1b486824d9e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07071b6b4cab7b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian cheat sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian cheat sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e8f750cc709524d",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f01ed51a87455c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f726e511fa2aff4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "produção",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "247862501cca278c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "498481b8365eae33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5026054382324
+  },
+  "right": {
+    "id": "0d29ca6092a8c4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "90559ade67207b3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14fd10f8e526deb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cotidiano/Contas recorrentes mês a mês.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Contas recorrentes mês a mês"
+            }
+          },
+          {
+            "id": "ce860902ec018140",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudos/Autogenia/Afetividade emocional Passiva.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Afetividade emocional Passiva"
+            }
+          },
+          {
+            "id": "f7c59bc5abfa2fc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ffa0ed8bb1450db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cotidiano/Contas recorrentes mês a mês.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Contas recorrentes mês a mês"
+            }
+          },
+          {
+            "id": "5f5b0194ec811d9f",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "91d88f0937822c95",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b27e917653384566",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c97c77cff52c4dd",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3c11dfd61f07fdc3",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "07071b6b4cab7b5e",
+  "lastOpenFiles": [
+    "Theads para checar.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Uso do Zettelkasten.md",
+    "Estudos/Música/Violino/Diárias de estudo/29-08-2023.md",
+    "Estudos/Música/Produção digital/Fazendo guitarra com DI/Índice sobre gravar guitarra em DI.md",
+    "Estudos/Música/Produção digital/Fazendo guitarra com DI/Como tirar um bom som em DI.md",
+    "Estudos/Música/Produção digital/Fazendo guitarra com DI",
+    "Estudos/Autoconhecimento/Consciência digital/Índice do consciência digital.md",
+    "Estudos/Autoconhecimento/Consciência digital",
+    "Estudos/Autoconhecimento/Autogenia/Ultima aula.md",
+    "Estudos/Autoconhecimento/Autogenia/Reflexão sobre o exercício de meditação e visualização.md",
+    "Estudos/Autoconhecimento/Autogenia/Quais são os meus personagens.md",
+    "Estudos/Autoconhecimento/Autogenia/Memento Mori.md",
+    "Estudos/Autoconhecimento/Autogenia/De subir a montanha/Carta para o Pedro que subiu a montanha, do pedro que ainda não subiu.md",
+    "Estudos/Autoconhecimento/Autogenia/De subir a montanha/Carta do Pedro que subiu a montanha para o Pedro que ainda não subiu.md",
+    "Estudos/Autoconhecimento/Autogenia/De subir a montanha",
+    "Estudos/Autoconhecimento/Autogenia/Conversa com Douglas sobre como está meu software.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional/Índice de afetividade emocional.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional/PROTOCOLO DE AUTOGESTÃO AFETIVA ATIVA – FORA.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional/Afetividade emocional passiva.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional/Afetividade emocional ativa.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional",
+    "2025-09-01.md",
+    "Estudos/Leituras/Livros/Untitled.md",
+    "Estudos/Autoconhecimento/Quais são minhas necessidades psicológicas.md",
+    "Estudos/Autoconhecimento/Autogenia/Quais dos 4 cavaleiros da Pobreza pesa mais pra mim.md",
+    "Estudos/Autoconhecimento/Autogenia/O que resultou do efeito paralelo.md",
+    "Estudos/Autoconhecimento/Autogenia/O que me impede de ganhar dinheiro.md",
+    "Estudos/Autoconhecimento/Autogenia/O que eu prefiro.md",
+    "Estudos/Autoconhecimento/Autogenia/Emoções/Protocolo do Autogenia.md",
+    "Estudos/Autoconhecimento/Autogenia/Emoções/Preciso de mulher ou estou carente_.md",
+    "Estudos/Autoconhecimento/Autogenia/Emoções",
+    "Attachments/Screenshot_20250831_150308_Instagram.jpg",
+    "Estudos/Leituras/Poemas",
+    "Finanças",
+    "Attachments/Pasted image 20250825233514.png",
+    "Attachments/Guia Prático Slow Life (1).pdf",
+    "Empresa/Bufulink/Untitled.canvas",
+    "Untitled.canvas",
+    "Attachments/screenshot-2025-07-30_13:51:05.png",
+    "Attachments/unnamed (1).png",
+    "Attachments/Pasted image 20240505160504.png",
+    "Attachments/Pasted image 20240505201659.png",
+    "Attachments/Pasted image 20231220003220.png",
+    "Attachments/Group 16@2x.png",
+    "Attachments/01 - Login.png",
+    "Attachments/Rectangle 1.png"
+  ]
+}

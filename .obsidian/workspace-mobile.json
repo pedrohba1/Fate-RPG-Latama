@@ -1,52 +1,66 @@
 {
   "main": {
-    "id": "832005337ff5029e",
+    "id": "b4bd017b79a31d80",
     "type": "split",
     "children": [
       {
-        "id": "ed5ca7b6cbd32087",
+        "id": "f23cf0f0743d07e2",
         "type": "tabs",
         "children": [
           {
-            "id": "f6a1f37acea5c584",
+            "id": "56061fd90db05278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indice.md",
+                "file": "Estudos/Autoconhecimento/Autogenia/Emoções/Preciso de mulher ou estou carente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "indice"
+              "title": "Preciso de mulher ou estou carente"
             }
           },
           {
-            "id": "96d3444857ed97f3",
+            "id": "2f572d1919c0a2c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagem do pedro.md",
+                "file": "Estudos/Autoconhecimento/Autogenia/Índice do Autogenia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personagem do pedro"
+              "title": "Índice do Autogenia"
+            }
+          },
+          {
+            "id": "47de3ca9917fc3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rpg/Personagem do Pedro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personagem do Pedro"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b79ce7755371ed0b",
+    "id": "3c84e671fdcd94f1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a10c8f355e0692b1",
+        "id": "cb593b151ac4c49e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -59,12 +73,12 @@
         }
       },
       {
-        "id": "cfb2b6cd00466179",
+        "id": "53d18988186a8165",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Rpg",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -76,7 +90,7 @@
         }
       },
       {
-        "id": "70bea2c6ff7a58ff",
+        "id": "13fefe4ee9bfdd4c",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -91,7 +105,21 @@
         }
       },
       {
-        "id": "7b1a5facf2a6a10f",
+        "id": "758af8758732a62b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "b067c9cad930764c",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -104,16 +132,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "b40b80d7c0ced333",
+    "id": "f2ea09106d979ff1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cc3ed5240a48cbda",
+        "id": "01ab85e84f6672b7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "indice.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,12 +154,11 @@
         }
       },
       {
-        "id": "c91d69f26e63d88c",
+        "id": "9f1527d9e477a93d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "indice.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -141,18 +167,57 @@
         }
       },
       {
-        "id": "cfd80166b0fbf0d9",
+        "id": "a3b53ddc695d5622",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "indice.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
+        }
+      },
+      {
+        "id": "0c3ab1cb15263732",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "online.larslockefeer.obsidian-plugin-todo"
+        }
+      },
+      {
+        "id": "6d323e685055e524",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      },
+      {
+        "id": "f804b7b23ca67591",
+        "type": "leaf",
+        "state": {
+          "type": "RSS_FEED",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "RSS_FEED"
+        }
+      },
+      {
+        "id": "992b8ba5c6e4897f",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {},
+          "icon": "checkmark",
+          "title": "Todo"
         }
       }
     ],
@@ -166,15 +231,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "excel:Create Excel File": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96d3444857ed97f3",
+  "active": "47de3ca9917fc3c9",
   "lastOpenFiles": [
-    "README.md",
-    "indice.md",
-    "Personagem do pedro.md",
-    "personagens",
-    "Untitled"
+    "Estudos/Leituras/Livros/Where Wizards Stay Up Late.md",
+    "Estudos/Leituras/Livros/Índice de leituras e meus pensamentos sobre as leituras.md",
+    "Estudos/Autoconhecimento/Autogenia/Meus valores que considero importantes.md",
+    "Rpg/Latama.md",
+    "cjkj/Lutas/Alongamentos para lutas.md",
+    "cjkj/Rotinas/Treino simples de academia.md",
+    "Academia e esportes/Lutas/Alongamentos para lutas.md",
+    "cjkj/Treinos de Academia/Rotinas/Rotina do Sheiko/Rotina de Deadlift.md",
+    "cjkj/Treinos de Academia/Rotinas/índice de Rotina do Sheiko.md",
+    "cjkj/Treinos de Academia/Rotinas/Rotina do Sheiko",
+    "cjkj/Treinos de Academia/Rotinas",
+    "cjkj/Treinos de Academia/Antebraços.md",
+    "cjkj/Treinos de Academia",
+    "cjkj/Rotinas/índice de Rotina do Sheiko.md",
+    "cjkj/Rotinas/Rotina do Sheiko/Rotina de Deadlift.md",
+    "cjkj/Rotinas/Rotina do Sheiko",
+    "cjkj/Rotinas",
+    "cjkj/Lutas",
+    "cjkj",
+    "Estudos/Autoconhecimento/Autogenia/Memento Mori.md",
+    "Estudos/Autoconhecimento/Autogenia/Índice do Autogenia.md",
+    "Estudos/Autoconhecimento/Autogenia/Protocolo de Ação.md",
+    "Estudos/Autoconhecimento/Autogenia/Emoções/Preciso de mulher ou estou carente.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional/Afetividade emocional passiva.md",
+    "Estudos/Autoconhecimento/Autogenia/De subir a montanha/Carta para o Pedro que subiu a montanha, do pedro que ainda não subiu.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional passiva.md",
+    "Estudos/Autoconhecimento/Autogenia/Afeitivdade emocional ativa.md",
+    "Estudos/Autoconhecimento/Autogenia/Afetividade emocional/Índice de afetividade emocional.md",
+    "Estudos/Autoconhecimento/Autogenia/PROTOCOLO DE AUTOGESTÃO AFETIVA ATIVA – FORA.md",
+    "Estudos/Autoconhecimento/Autogenia/Carta do Pedro que subiu a montanha para o Pedro que ainda não subiu.md",
+    "Estudos/Autoconhecimento/Autogenia/O que se espera de desbloqueio da Autogenia.md",
+    "Estudos/Autoconhecimento/Autogenia/De subir a montanha/Carta do Pedro que subiu a montanha para o Pedro que ainda não subiu.md",
+    "Estudos/Autoconhecimento/Autogenia/Conversa com Douglas sobre como está meu software.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Attachments/Screenshot_20250831_150308_Instagram.jpg",
+    "docs/6d1df5e9-6ce4-459b-a98c-cf42460b3329.pdf",
+    "Finanças",
+    "Estudos/Leituras/Poemas",
+    "Attachments/Pasted image 20250825233514.png"
   ]
 }
