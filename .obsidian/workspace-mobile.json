@@ -39,14 +39,10 @@
             "id": "47de3ca9917fc3c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rpg/Personagem do Pedro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Personagem do Pedro"
+              "title": "New tab"
             }
           }
         ],
@@ -216,6 +212,16 @@
         "state": {
           "type": "online.larslockefeer.obsidian-plugin-todo",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "online.larslockefeer.obsidian-plugin-todo"
+        }
+      },
+      {
+        "id": "d2280ee1d67cf770",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {},
           "icon": "checkmark",
           "title": "Todo"
         }
@@ -239,7 +245,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47de3ca9917fc3c9",
+  "active": "cb593b151ac4c49e",
   "lastOpenFiles": [
     "Estudos/Leituras/Livros/Where Wizards Stay Up Late.md",
     "Estudos/Leituras/Livros/Índice de leituras e meus pensamentos sobre as leituras.md",
